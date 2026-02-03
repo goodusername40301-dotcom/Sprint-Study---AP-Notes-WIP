@@ -10,7 +10,7 @@
     <meta name="description" content="Free AP Notes for high school students. Includes AP Government, AP Human Geography, AP U.S. History, APES, AP Chemistry, AP Physics 1 & 2, plus AI-powered SAT practice." />
     <meta name="keywords" content="AP Notes, AP Gov, AP Government and Politics, AP Human Geography, APUSH, AP Chemistry, AP Physics 1, AP Physics 2, Study Notes, High School Notes, SAT Practice, SAT Prep" />
 
-    <!-- Ivy League Typography -->
+    
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
 
     <style>
@@ -257,8 +257,8 @@
 <body>
 
 <header>
-    <h1>AP Notes Repository & SAT Practice</h1>
-    <h2>A curated academic hub for AP-level study notes and SAT preparation</h2>
+    <h1>AP Study Notes & SAT Prep</h1>
+    <h2>A go-to site for AP notes and SAT practice (P.S. Sorry for the inconvenience, SAT practice is currently down and we are working towards fixing it. Thank you for your patience.)</h2>
 </header>
 
 <div class="nav-tabs">
@@ -528,4 +528,5 @@ The "correct" field should be the index (0-3) of the correct answer.`
 </script>
 
 </body>
+
 </html>
